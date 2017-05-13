@@ -1,5 +1,7 @@
-# telescreen
+# Telescreen
 
+## Layout
+```
 +-----------------+
 + gps time epoch  +
 +-----------------+
@@ -7,6 +9,6 @@
 |---+gpredict +---+
 |   |         |   |
 +---+---------+---+
-
-dwm
-fakefullscreen
+```
+# Window Manager 
+dwm + fakefullscreen
