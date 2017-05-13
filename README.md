@@ -10,5 +10,5 @@
 |   |         |   |
 +---+---------+---+
 ```
-# Window Manager 
+## Window Manager 
 dwm + fakefullscreen
