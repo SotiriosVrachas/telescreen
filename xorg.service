@@ -1,0 +1,8 @@
+[Unit]
+After=systemd-user-sessions.service
+
+[Service]
+ExecStart=/bin/su xorg -l -c /usr/bin/xinit -- VT08
+
+[Install]
+WantedBy=multi-user.target
